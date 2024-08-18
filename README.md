@@ -13,4 +13,9 @@ pip install -r tensorflow numpy scipy matplotlib pickle
 
 Note: your environment may require "pip3".
 
+The file names correspond to the considered numerical tests. To change the 'r' parameter of the truncated exponential sampling change the
+value of 
+
+- "lambda_sample" (burgers)
+- "sampling_lambda" (linear and Lorenz)
 
